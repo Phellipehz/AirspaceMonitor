@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ADSBDecodedTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-30T22:24:06" hostname="DESKTOP-R4H8CSB" time="0.016">
+  <properties/>
+  <testcase name="whenHasAValidMessageParityIsOK()" classname="ADSBDecodedTest" time="0.016"/>
+  <system-out><![CDATA[40073c
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
